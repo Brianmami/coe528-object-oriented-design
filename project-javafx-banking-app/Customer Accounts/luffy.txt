@@ -1,0 +1,5 @@
+Username: luffy
+Password: 123
+Role: customer
+Balance: 10100.0
+Level: Gold

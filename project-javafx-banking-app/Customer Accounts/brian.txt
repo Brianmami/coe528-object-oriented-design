@@ -1,0 +1,5 @@
+Username: brian
+Password: 123
+Role: customer
+Balance: 20000.0
+Level: Gold

@@ -1,0 +1,5 @@
+Username: bianca
+Password: 123
+Role: customer
+Balance: 10102.0
+Level: Gold
